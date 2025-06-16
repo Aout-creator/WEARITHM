@@ -1,0 +1,186 @@
+{
+  "date_summer_man_temp": {
+    "brands": [
+      { "name": "AderError", "url": "https://adererror.com/", "logo":"/images/brandLogo/aderError.jpg" },
+      { "name": "Andersson Bell", "url": "https://www.anderssonbell.com", "logo": "/images/brandLogo/anderssonBell.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/anderssonbell/", "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/date_summer_man_temp.png"
+  },
+  "date_fall_man_temp": {
+    "brands": [
+      { "name": "Danton", "url": "https://danton.com/", "logo": "/images/brandLogo/danton.png"},
+      { "name": "Ralph Lauren", "url": "https://www.ralphlauren.co.kr/", "logo":"/images/brandLogo/ralphLauren.jpg" }
+    ],
+    "image": "/images/date_fall_man_temp.png"
+  },
+  "date_spring_man_temp": {
+    "brands": [
+      { "name": "Danton", "url": "https://danton.com/", "logo": "/images/brandLogo/danton.png"},
+      { "name": "Ralph Lauren", "url": "https://www.ralphlauren.co.kr/", "logo":"/images/brandLogo/ralphLauren.jpg" }
+    ],
+    "image": "/images/date_spring_man_temp.png"
+  },
+  "date_fall_woman_temp": {
+    "brands": [
+      { "name": "Danton", "url": "https://danton.com/", "logo": "/images/brandLogo/danton.png"},
+      { "name": "Matin Kim", "url": "https://matinkim.shop/", "logo":"/images/brandLogo/matinKim.png"},
+      { "name": "Ralph Lauren", "url": "https://www.ralphlauren.co.kr/", "logo":"/images/brandLogo/ralphLauren.jpg" },
+      {"name": "Marithe Francois Girbaud", "url": "https://marithe-official.com/", "logo": "/images/brandLogo/marithe.png"}
+    ],
+    "image": "/images/date_fall_woman_temp.png"
+  },
+  "date_spring_woman_temp": {
+    "brands": [
+      { "name": "Danton", "url": "https://danton.com/", "logo": "/images/brandLogo/danton.png"},
+      { "name": "Ralph Lauren", "url": "https://www.ralphlauren.co.kr/", "logo":"/images/brandLogo/ralphLauren.jpg" },
+      {"name": "Marithe Francois Girbaud", "url": "https://marithe-official.com/", "logo": "/images/brandLogo/marithe.png"}
+    ],
+    "image": "/images/date_spring_woman_temp.png"
+  },
+  "date_summer_woman_temp": {
+    "brands": [
+      { "name": "TheOpen Product", "url": "https://theopenproduct.com", "logo": "/images/brandLogo/theOpenProduct.png" },
+      { "name": "Marithe Francois Girbaud", "url": "https://marithe-official.com/", "logo": "/images/brandLogo/marithe.png"},
+      { "name": "Uniqlo", "url": "https://www.uniqlo.com/kr/ko", "logo": "/images/brandLogo/uniqlo.png"},
+      { "name": "Cos", "url": "https://www.cos.com", "logo": "/images/brandLogo/cos.png" },
+      { "name": "Attrangs", "url": "https://attrangs.co.kr", "logo": "/images/brandLogo/attrangs.jpg"}
+    ],
+    "image": "/images/date_summer_woman_temp.png"
+  },
+  "date_winter_man_temp": {
+    "brands": [
+      { "name": "Danton", "url": "https://danton.com/", "logo": "/images/brandLogo/danton.png"},
+      { "name": "Ralph Lauren", "url": "https://www.ralphlauren.co.kr/", "logo":"/images/brandLogo/ralphLauren.jpg" },
+      { "name": "Musinsa Standard", "url": "https://store.musinsa.com/app/brand/goods/2088", "logo": "/images/brandLogo/musinsaStandard.jpg" }
+    ],
+    "image": "/images/date_winter_man_temp.png"
+  },
+  "date_winter_woman_temp": {
+    "brands": [
+      { "name": "LOEUVRE", "url": "https://www.maisonloeuvre.com/", "logo": "/images/brandLogo/loeuvre.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/loeuvre_official/", "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/date_winter_woman_temp.png"
+  },
+  "work_summer_man_temp": {
+    "brands": [
+      { "name": "Uniqlo", "url": "https://www.uniqlo.com/kr/ko", "logo": "/images/brandLogo/uniqlo.png"},
+      { "name": "Cos", "url": "https://www.cos.com", "logo": "/images/brandLogo/cos.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/uniqlo_kr/",  "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_summer_man_temp.png"
+  },
+  "work_spring_man_temp": {
+    "brands": [
+      { "name": "Uniqlo", "url": "https://www.uniqlo.com/kr/ko", "logo": "/images/brandLogo/uniqlo.png" },
+      { "name": "Cos", "url": "https://www.cos.com", "logo": "/images/brandLogo/cos.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/uniqlo_kr/",  "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_spring_man_temp.png"
+  },
+  "work_summer_woman_temp": {
+    "brands": [
+      { "name": "Low Classic", "url": "https://lowclassic.com", "logo": "/images/brandLogo/lowClassic.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/lowclassic/",  "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_summer_woman_temp.png"
+  },
+  "work_spring_woman_temp": {
+    "brands": [
+      { "name": "Low Classic", "url": "https://lowclassic.com", "logo": "/images/brandLogo/lowClassic.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/lowclassic/", "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_spring_woman_temp.png"
+  },
+  "work_winter_man_temp": {
+    "brands": [
+      { "name": "Studio Nicholson", "url": "https://studionicholson.com", "logo":"/images/brandLogo/studioNicholson.jpg" },
+      { "name": "Instagram", "url": "https://www.instagram.com/studionicholson/", "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_winter_man_temp.png"
+  },
+  "work_fall_man_temp": {
+    "brands": [
+      { "name": "Studio Nicholson", "url": "https://studionicholson.com", "logo":"/images/brandLogo/studioNicholson.jpg" },
+      { "name": "Instagram", "url": "https://www.instagram.com/studionicholson/", "logo": "/images/brandLogo/Instagram.png" }
+    ],
+    "image": "/images/work_fall_man_temp.png"
+  },
+  "work_winter_woman_temp": {
+    "brands": [
+      { "name": "The Izzat Collection", "url": "https://www.babagroup.co.kr/collection/", "logo": "/images/brandLogo/theIzzat.png" },
+      { "name": "System", "url": "https://system.co.kr", "logo": "/images/brandLogo/system.png" }
+    ],
+    "image": "/images/work_winter_woman_temp.png"
+  },
+  "work_fall_woman_temp": {
+    "brands": [
+      { "name": "The Izzat Collection", "url": "https://www.babagroup.co.kr/collection/", "logo": "/images/brandLogo/theIzzat.png" },
+      { "name": "System", "url": "https://system.co.kr", "logo": "/images/brandLogo/system.png" }
+    ],
+    "image": "/images/work_fall_woman_temp.png"
+  },
+  "sport_spring_man_temp": {
+    "brands": [
+      {"name": "Nike", "url": "https://www.nike.com/kr", "logo":"/images/brandLogo/nike.jpg"},
+      {"name": "Musinsa Standard", "url": "https://store.musinsa.com", "logo": "/images/brandLogo/musinsaStandard.jpg"},
+      {"name": "Instagram", "url": "https://www.instagram.com/musinsastandard/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_spring_man_temp.png"
+  },
+  "sport_spring_woman_temp": {
+    "brands": [
+      {"name": "New Balance", "url": "https://www.nbkorea.com", "logo": "/images/brandLogo/newBalance.png"},
+      {"name": "Kirsh", "url": "https://kirsh.co.kr", "logo": "/images/brandLogo/kirsh.png"},
+      {"name": "Instagram", "url": "https://www.instagram.com/kirsh_official/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_spring_woman_temp.png"
+  },
+  "sport_summer_man_temp": {
+    "brands": [
+      {"name": "Nike", "url": "https://www.nike.com/kr", "logo":"/images/brandLogo/nike.jpg"},
+      {"name": "Thisisneverthat", "url": "https://thisisneverthat.com", "logo": "/images/brandLogo/thisisneverthat.png"}
+    ],
+    "image": "/images/sport_summer_man_temp.png"
+  },
+  "sport_summer_woman_temp": {
+    "brands": [
+        {"name": "New Balance", "url": "https://www.nbkorea.com", "logo": "/images/brandLogo/newBalance.png"},
+        {"name": "Kirsh", "url": "https://kirsh.co.kr", "logo": "/images/brandLogo/kirsh.png"}
+    ],
+    "image": "/images/sport_summer_woman_temp.png"
+  },
+  "sport_fall_man_temp": {
+    "brands": [
+        {"name": "Nike", "url": "https://www.nike.com/kr", "logo":"/images/brandLogo/nike.jpg"},
+        {"name": "NERDY", "url": "https://www.nerdy.co.kr", "logo": "/images/brandLogo/nerdy.jpg"},
+        {"name": "Instagram", "url": "https://www.instagram.com/nerdyofficial/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_fall_man_temp.png"
+  },
+  "sport_fall_woman_temp": {
+    "brands": [
+        {"name": "Fila", "url": "https://www.fila.co.kr", "logo":"/images/brandLogo/fila.png"},
+        {"name": "New Balance", "url": "https://www.nbkorea.com", "logo": "/images/brandLogo/newBalance.png"},
+        {"name": "Instagram", "url": "https://www.instagram.com/newbalance_kr/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_fall_woman_temp.png"
+  },
+  "sport_winter_man_temp": {
+    "brands": [
+        {"name": "Nike", "url": "https://www.nike.com/kr", "logo":"/images/brandLogo/nike.jpg"},
+        {"name": "NERDY", "url": "https://www.nerdy.co.kr", "logo": "/images/brandLogo/nerdy.jpg"},
+        {"name": "Instagram", "url": "https://www.instagram.com/nerdyofficial/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_winter_man_temp.png"
+  },
+  "sport_winter_woman_temp": {
+    "brands": [
+        {"name": "Fila", "url": "https://www.fila.co.kr", "logo":"/images/brandLogo/fila.png"},
+        {"name": "New Balance", "url": "https://www.nbkorea.com", "logo": "/images/brandLogo/newBalance.png"},
+        {"name": "Instagram", "url": "https://www.instagram.com/newbalance_kr/", "logo": "/images/brandLogo/Instagram.png"}
+    ],
+    "image": "/images/sport_winter_woman_temp.png"
+  }
+}
